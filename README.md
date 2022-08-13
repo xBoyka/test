@@ -20,7 +20,7 @@ class DESIGN():
     greenplus = f"{WHITE}[ {GREEN}+{WHITE} ]"
     blueplus = f"{WHITE}[ {BLUE}+{WHITE} ]"
     redminus = f"{WHITE}[ {RED}-{WHITE} ]"
-    xrblue = f"\n{blueplus} Instagram Password Reset {BLUE}/ {WHITE}Instagram{BLUE}: {WHITE}@lbad {BLUE}/ {WHITE}@lbad"
+    xrblue = f"\n{blueplus} Instagram Password Reset {BLUE}/ {WHITE}Instagram{BLUE}: {WHITE}@xnce {BLUE}/ {WHITE}@ro1c"
 class Xnce():
     def __init__(self):
         print(DESIGN.xrblue)
@@ -57,4 +57,4 @@ class Xnce():
         else:
             print(f"\n{DESIGN.redminus} {req.text}")
             self.inex()
-Lbad()
+Xnce()
