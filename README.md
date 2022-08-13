@@ -57,4 +57,4 @@ class Xnce():
         else:
             print(f"\n{DESIGN.redminus} {req.text}")
             self.inex()
-Xnce()
+Lbad()
